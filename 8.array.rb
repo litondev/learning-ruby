@@ -30,3 +30,63 @@ days2 = ['T','F','S'];
 days = days1 + days2;
 print(days);
 print(days2.concat(days1));
+
+days3 = ['P','S'];
+days3 << 'ads';
+days3 << 'asdasd' << 'asd';
+print(days3)
+
+operating_systems = ["Fedora", "SuSE", "RHEL", "Windows", "MacOS"]
+linux_systems = ["RHEL", "SuSE", "PCLinuxOS", "Ubuntu", "Fedora"]
+
+# PENGGUNAN TERGANTUNG POSISI AWAL DAN AKHIR ARRAY
+# UNION
+# Union - Concatenates two arrays. Duplicates are removed.
+print(operating_systems | linux_systems)
+# DIFFERENCE 
+# Difference - Returns a new array that is a copy of the first array with any items that also appear in second array removed.
+print(operating_systems & linux_systems)
+# Intersection
+# Intersection - Creates a new array from two existing arrays containing only elements that are common to both arrays. Duplicates are removed.
+print(operating_systems - linux_systems)
+
+linux_systems = ["RHEL", "SuSE", "PCLinuxOS", "Ubuntu", "Fedora", "RHEL", "SuSE"]
+
+print(linux_systems.uniq)
+
+# CHANGE REAL VARIABLE
+print(linux_systems.uniq!)
+
+# IT WILL SAME ASS ABOVE
+print(linux_systems)
+
+
+colors = ["red", "green", "blue"]
+colors.push "indigo"
+colors.push "violet"
+colors.pop
+
+
+arr1 = [1,2,3];
+arr2 = [1,2,'3'];
+print(arr1 == arr2)
+print(arr1.eql?(arr2))
+print(arr1 <=> arr2)
+
+colors = ["red", "green", "blue"]
+colors.insert( 1, "orange" )
+
+
+colors = ["red", "green", "blue"]
+colors[1..2] = "orange", "pink"
+print(colors);
+
+colors.delete_at(1)
+
+colors.delete("red")
+
+
+numbers = [1, 4, 6, 7, 3, 2, 5]
+numbers.sort
+numbers.sort!
+numbers.reverse
