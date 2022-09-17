@@ -4,20 +4,13 @@ https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm
 BASIC - OOP (THIRD LEARNING)
 https://www.rubyguides.com/ruby-tutorial/
 
-https://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/index.html
-
-https://www.linuxtopia.org/online_books/programming_books/ruby_guide/index.html
 
 PACKAGE MANAGER 
 https://www.digitalocean.com/community/tutorials/how-to-work-with-the-ruby-package-manager-rubygems-getting-started
 
 
-- BASIC 
+https://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/index.html
 
-- OOP
+https://www.linuxtopia.org/online_books/programming_books/ruby_guide/index.html
 
-- TRY AND CATCH 
-
-- PACAKGE MANAGER 
-
-- RUBY ON RAILS 
+https://rubyonrails.org/
