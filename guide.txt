@@ -1,13 +1,5 @@
-BASIC - OOP (SECOND LEARNING)
-https://www.tutorialspoint.com/ruby/ruby_object_oriented.htm
-
-BASIC - OOP (THIRD LEARNING)
-https://www.rubyguides.com/ruby-tutorial/
-
-
 PACKAGE MANAGER 
 https://www.digitalocean.com/community/tutorials/how-to-work-with-the-ruby-package-manager-rubygems-getting-started
-
 
 https://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/index.html
 
