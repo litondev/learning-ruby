@@ -1,0 +1,29 @@
+PATH
+  remote: .
+  specs:
+    example2 (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    console_color (0.0.6)
+    console_progress (0.1.9)
+    mini_portile2 (2.8.0)
+    nokogiri (1.13.8)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    racc (1.6.0)
+    rake (12.3.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  console_color
+  console_progress
+  example2!
+  nokogiri
+  rake (~> 12.0)
+
+BUNDLED WITH
+   2.1.4
