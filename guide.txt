@@ -1,6 +1,3 @@
-PACKAGE MANAGER 
-https://www.digitalocean.com/community/tutorials/how-to-work-with-the-ruby-package-manager-rubygems-getting-started
-
 https://www.linuxtopia.org/online_books/programming_books/ruby_tutorial/index.html
 
 https://www.linuxtopia.org/online_books/programming_books/ruby_guide/index.html
